@@ -1,0 +1,10 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>icoonn/book.png</file>
+        <file>icoonn/user.png</file>
+        <file>icoonn/theme.png</file>
+        <file>icoonn/setting.png</file>
+        <file>icoonn/day to day.png</file>
+    </qresource>
+</RCC>
